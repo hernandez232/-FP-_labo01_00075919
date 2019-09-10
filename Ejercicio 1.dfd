@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+'Ingrese los 3 coeficientes de la ecuacion:'
+5
+1
+7
+a, b, c
+6
+3
+2
+ra
+19
+sqrt((b^2)-(4*a*c))
+2
+R1
+13
+((-b)+ra)/2*a
+2
+R2
+13
+((-b)-ra)/2*a
+4
+1
+50
+'Los resultado son: ', 'X1 = ', R1, ' y X2 = ', R2
+1
