@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Ingrese 3 numeros:'
+5
+1
+7
+a, b, c
+6
+2
+4
+suma
+8
+a +b + c
+4
+prom
+6
+suma/3
+7
+0
+1
+8
+prom > 6
+7
+0
+1
+8
+prom = 6
+4
+1
+26
+'Su promedio es menor a 6'
+13
+4
+1
+26
+'Su promedio es igual a 6'
+13
+13
+4
+1
+26
+'Su promedio es mayor a 6'
+13
+1
